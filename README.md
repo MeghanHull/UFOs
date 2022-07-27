@@ -23,8 +23,6 @@ The purpose is to build an interactive webpage to analyze UFO sighting data usin
 | D3 | 4.11.0 |
 | Visual Studio Code | 1.69.2 |
 
-
-
 # Results
 <!-- There is a description of how to perform a search, with images. (4 pt) -->
 
