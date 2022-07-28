@@ -1,9 +1,8 @@
 # UFOs
 ## Project Background
-Dana's goal is to create an interactive webpage that allows readers to parse the data around UFO sightings. So, she essentially needs to build two things:
+To support data journalist Dana's latest article on UFO sightings, she has requested an interactive webpage that allows readers to parse the researched UFO sighting data. She essentially needs to two things:
 - The webpage that will allow users to view the data (HTML);
 - A dynamic table that will present it (JavaScript).
-Dana will switch between building the JavaScript table (within the app.js file) and the HTML page (within an index.html file).
 
 ## Purpose
 <!-- The purpose of the analysis is well defined. (3 pt) -->
@@ -37,9 +36,23 @@ The entire unfiltered data set is shown when the webpage is initially accessed.
 
 ## How to Filter Data
 To filter the data table, type the criteria in the filter fields, and press enter.  The table will update automatically.
-> **Only one value may be selected for each filter!**</p>
-> For example, data may be filtered by only one date, not a range of dates.
+> **Only one value may be selected for each filter type!**</p>
+> For example, data may be filtered by one date and one city, not a range of dates or multiple cities.
 
+<details><summary>Example - One Filter Applied</summary>
+  <p>
+  <img src="ReadmeImages/Filtered Example - Date.PNG">
+  </p>
+</details>
+
+<details><summary>Example - Multipe Filters Applied</summary>
+  <p>
+  <img src="ReadmeImages/Filtered Example - Multiple Criteria.PNG">
+  </p>
+</details>
+
+## Reset Filters
+To reset the filters, delete the values you typed in the filter fields.
 
 # Summary
 <!-- The summary addresses one drawback of this webpage (2 pt) -->
