@@ -25,6 +25,21 @@ The purpose is to build an interactive webpage to analyze UFO sighting data usin
 
 # Results
 <!-- There is a description of how to perform a search, with images. (4 pt) -->
+## Overview of Webpage
+The developed UFO webpage is accessible at [https://meghanhull.github.io/UFOs/](https://meghanhull.github.io/UFOs/).  A table of UFO sightings is presented below an introductory section provided by Dana.  The filters are to the left of the table.  
+
+The entire unfiltered data set is shown when the webpage is initially accessed.
+<details><summary>View Eaxmple Image</summary>
+  <p>
+  <img src="ReadmeImages/Unfiltered Table.PNG">
+  </p>
+</details>
+
+## How to Filter Data
+To filter the data table, type the criteria in the filter fields, and press enter.  The table will update automatically.
+> **Only one value may be selected for each filter!**</p>
+> For example, data may be filtered by only one date, not a range of dates.
+
 
 # Summary
 <!-- The summary addresses one drawback of this webpage (2 pt) -->
